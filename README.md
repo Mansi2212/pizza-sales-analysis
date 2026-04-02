@@ -1,20 +1,42 @@
-# 🍕 Pizza Sales Analysis
+# 🍕 Pizza Sales Analysis (Power BI Project)
 
-## 📊 Overview
-This project analyzes pizza sales using Power BI and Excel.
+## 📊 Business Problem
+Pizza businesses often struggle to understand:
+- Which products generate maximum revenue
+- Customer ordering patterns
+- Peak sales time and demand trends
 
-## 📁 Files
-- Power BI Dashboard (.pbix)
-- Excel Dashboard (.xlsx)
-- Dataset
-- SQL Queries
+This project aims to analyze sales data and provide actionable insights for better decision-making.
 
-## 🛠 Tools Used
+---
+
+## 🎯 Objective
+- Analyze pizza sales performance
+- Identify top-selling and low-performing items
+- Understand customer behavior
+- Improve revenue through data-driven insights
+
+---
+
+## 📁 Project Files
+- 📊 Power BI Dashboard (`.pbix`)
+- 📈 Excel Dashboard (`.xlsx`)
+- 🗂 Dataset
+- 📝 SQL Queries Document
+
+---
+
+## 🛠 Tools & Technologies
 - Power BI
-- Excel
+- Microsoft Excel
 - SQL
 
-## 📌 Insights
-- Top selling pizzas
-- Revenue trends
-- Category performance
+---
+
+## 📌 Key KPIs
+- 💰 Total Revenue
+- 📦 Total Orders
+- 🍕 Total Pizzas Sold
+- 📊 Average Order Value
+- ⏰ Orders by Time (Hourly/Daily)
+- 🏆 Top & Bottom Selling Pizzas
